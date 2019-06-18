@@ -1,4 +1,6 @@
 # EthMonitoring
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fthokaka92%2FEthMonitoring.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fthokaka92%2FEthMonitoring?ref=badge_shield)
+
 
 Mining monitoring tool with Android and iOS application support. Also supports Telegram, SMS and Push notifications with custom sounds.
 
@@ -86,3 +88,7 @@ BTC: 1JUrgoekaQm7H4ARrvduGGCmWkrzUoxKBk
 ETH: 0xD9B9200eE4017A0E07089629475DbaBA611Fc4e6
 
 ZEC: t1VUN4kfNiZQmwZ7dL3X6XujrCU3A6VMfbh
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fthokaka92%2FEthMonitoring.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fthokaka92%2FEthMonitoring?ref=badge_large)
